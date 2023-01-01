@@ -1,5 +1,5 @@
-# 💫 About Me:
-Desenvolvedor Front-End , Formado em ciência da computação na universidade paulista - UNIP<br>
+# 💫 Sobre mim:
+Desenvolvedor Front-End , Formado em ciência da computação na universidade paulista - UNIP, em constante evolução busco me aprimorar dia a dia<br>
 
 
 ## 🌐 Socials:
